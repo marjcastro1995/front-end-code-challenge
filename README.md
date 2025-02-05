@@ -14,7 +14,7 @@ yarn install
 yarn start
 ```
 
-Description:
+About
 
 Bigdatr's aerial drone takes photographs of billboards based on simple movement instructions. The drone can move North (^), South (v), East (>), or West (<), and take a photograph (x) at each location.
 
